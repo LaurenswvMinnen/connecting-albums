@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#bodi_album  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#guus_album  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#laurens_album  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048448
+      }
+    },
+    {
+      "query": "tag:#zeb_album  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.38866943866944,
+  "lineSizeMultiplier": 1.20530145530146,
+  "collapse-forces": false,
+  "centerStrength": 0.591476091476092,
+  "repelStrength": 10.2494802494803,
+  "linkStrength": 0.641372141372141,
+  "linkDistance": 115,
+  "scale": 0.7132754626224506,
+  "close": true
+}

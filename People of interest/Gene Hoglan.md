@@ -1,0 +1,1 @@
+bands [[Strapping Young Lad]], [[Opeth]] (sub in 2004)
