@@ -1,2 +1,3 @@
-#zeb_album 
+artiest: [[Frank Ocean]]
 Co-produced by: [[Vegyn]]
+

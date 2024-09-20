@@ -11,11 +11,36 @@
             "id": "1d89e4061db7fd66",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "connecting bands/Mastodon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "652f714a24e090b4",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "929a4aae0894d9fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kanye West.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kanye West.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kanye West.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kanye West.md"
+              }
             }
           }
         ]
@@ -138,17 +167,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d89e4061db7fd66",
+  "active": "929a4aae0894d9fa",
   "lastOpenFiles": [
-    "Bootsy Collins.md",
+    "Kanye West - The Life of Pablo.md",
+    "Kanye West.md",
+    "Frank Ocean.md",
+    "Frank Ocean - Blonde.md",
+    "Vegyn.md",
+    "Main albums/JPEGMAFIA - All My Heroes Are Cornballs.md",
+    "connecting bands/Meshuggah.md",
+    "connecting bands/Mastodon.md",
+    "People of interest/Bootsy Collins.md",
     "Main albums/The RH Factor - Hard Groove.md",
-    "Bootsy Collins - Tha Funk Capital of the World.md",
-    "Victor Wooten.md",
-    "Funkadelic.md",
-    "Funkadelic - I'll Stay.md",
-    "Vital Tech Tones.md",
-    "Scott Henderson.md",
-    "Tribal Tech.md",
+    "connecting albums and singles/Bootsy Collins - Tha Funk Capital of the World.md",
+    "People of interest/Victor Wooten.md",
+    "Artists/Funkadelic.md",
+    "connecting albums and singles/Funkadelic - I'll Stay.md",
+    "connecting bands/Vital Tech Tones.md",
+    "People of interest/Scott Henderson.md",
+    "Artists/Tribal Tech.md",
     "Main albums/Tribal Tech - Face First.md",
     "Main albums/Willie Colon - Siembra.md",
     "Main albums/Tame Impala - Currents.md",
@@ -158,14 +195,6 @@
     "Main albums/Luther Vandross - Never Too Much.md",
     "Main albums/Leprous - Bilateral.md",
     "Main albums/Leonard Cohen - Songs of Love and Hate.md",
-    "Main albums/King Gizzard and the Lizard Wizard - Polygondwanaland.md",
-    "Main albums/King Gizzard and the Lizard Wizard - Flying Microtonal Banana.md",
-    "Main albums/Kids see Ghosts - Kids see Ghosts.md",
-    "Main albums/Justice - Justice.md",
-    "Main albums/Jungle - For Ever.md",
-    "Main albums/JPEGMAFIA - All My Heroes Are Cornballs.md",
-    "Main albums/Intense - Genesis Project EP.md",
-    "Main albums/Humanity's Last Breath - Ashen.md",
     "connecting albums and singles",
     "Her Revolution",
     "albumcovers/Justice-Justice.jpg",
