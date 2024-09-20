@@ -11,8 +11,12 @@
             "id": "1d89e4061db7fd66",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Main albums/Willie Colon - Siembra.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Main albums/Willie Colon - Siembra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Main albums/Willie Colon - Siembra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Main albums/Willie Colon - Siembra.md"
+              }
             }
           }
         ]
@@ -140,31 +148,34 @@
   },
   "active": "1d89e4061db7fd66",
   "lastOpenFiles": [
-    "Artists/Storm Corrosion.md",
-    "connecting bands/Opeth.md",
-    "People of interest/Gene Hoglan.md",
-    "connecting bands/Strapping Young Lad.md",
-    "People of interest/Devin Townsend.md",
-    "connecting albums and singles/Devin Townsend - Deconstruction.md",
-    "Main albums/The Smile - Wall of Eyes.md",
+    "Main albums/Tribal Tech - Face First.md",
+    "Main albums/The RH Factor - Hard Groove.md",
+    "Main albums/Tame Impala - Currents.md",
+    "Main albums/Storm Corrosion - Storm Corrosion.md",
     "Main albums/Omar Souleyman - Wenu Wenu.md",
-    "Artists/Thom Yorke.md",
-    "Artists/The Smile.md",
-    "People of interest/Michael Akerfeldt.md",
-    "People of interest/Ihsahn.md",
+    "Main albums/Rory Gallagher - Irish Tour '74.md",
+    "Main albums/Luther Vandross - Never Too Much.md",
     "Main albums/Leprous - Bilateral.md",
+    "Main albums/Leonard Cohen - Songs of Love and Hate.md",
+    "Main albums/King Gizzard and the Lizard Wizard - Polygondwanaland.md",
+    "Main albums/King Gizzard and the Lizard Wizard - Flying Microtonal Banana.md",
+    "Main albums/Kids see Ghosts - Kids see Ghosts.md",
+    "Main albums/Justice - Justice.md",
+    "Main albums/Jungle - For Ever.md",
+    "Main albums/JPEGMAFIA - All My Heroes Are Cornballs.md",
+    "Main albums/Intense - Genesis Project EP.md",
+    "Main albums/Humanity's Last Breath - Ashen.md",
+    "Main albums/Gordon Lightfoot - Sundown.md",
+    "Main albums/Funkadelic - Maggot Brain.md",
+    "Main albums/Floating Points - Promises.md",
+    "Main albums/Fleet Foxes - Fleet Foxes.md",
+    "Main albums/Faetooth - Remnants of the Vessel.md",
+    "Main albums/Esophagus - Killing for Sport.md",
+    "Main albums/Dillinger Escape Plan - Ire Works.md",
+    "Main albums/Death Grips - Bottomless Pit.md",
+    "Main albums/De Jeugd van Tegenwoordig - De Machine.md",
     "connecting albums and singles",
-    "Omar Souleyman.md",
-    "People of interest/Four Tet.md",
-    "connecting albums and singles/Her Revolution  His Rope.md",
-    "Her Revolution/His Rope.md",
     "Her Revolution",
-    "People of interest/Brent Hinds.md",
-    "connecting bands/Mastodon.md",
-    "connecting bands/Converge.md",
-    "connecting bands/weedeater.md",
-    "Main albums/Telekinetic Yeti - Abominable.md",
-    "Main albums/A Tribe Called Quest - Low End Theory.md",
     "albumcovers/Justice-Justice.jpg",
     "albumcovers/Wenu_Wenu_album_cover.jpg",
     "albumcovers/Timely!!_(album_cover).png",
@@ -176,9 +187,6 @@
     "albumcovers/Never_Too_Much_(Luther_Vandross_album_-_cover_art).jpg",
     "albumcovers/Maggot_Brain_(Funkadelic_album_-_cover_art).jpg",
     "albumcovers",
-    "connecting bands/High on Fire.md",
-    "connecting bands/Meshuggah.md",
-    "Artists/Telekinetic Yeti.md",
     "connecting bands",
     "People of interest",
     "Artists",
