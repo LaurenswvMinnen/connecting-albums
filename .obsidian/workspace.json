@@ -11,12 +11,8 @@
             "id": "1d89e4061db7fd66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Willie Colon - Siembra.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main albums/Willie Colon - Siembra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main albums/Willie Colon - Siembra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Main albums/Willie Colon - Siembra.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,17 @@
   },
   "active": "1d89e4061db7fd66",
   "lastOpenFiles": [
-    "Main albums/Tribal Tech - Face First.md",
+    "Bootsy Collins.md",
     "Main albums/The RH Factor - Hard Groove.md",
+    "Bootsy Collins - Tha Funk Capital of the World.md",
+    "Victor Wooten.md",
+    "Funkadelic.md",
+    "Funkadelic - I'll Stay.md",
+    "Vital Tech Tones.md",
+    "Scott Henderson.md",
+    "Tribal Tech.md",
+    "Main albums/Tribal Tech - Face First.md",
+    "Main albums/Willie Colon - Siembra.md",
     "Main albums/Tame Impala - Currents.md",
     "Main albums/Storm Corrosion - Storm Corrosion.md",
     "Main albums/Omar Souleyman - Wenu Wenu.md",
@@ -165,15 +166,6 @@
     "Main albums/JPEGMAFIA - All My Heroes Are Cornballs.md",
     "Main albums/Intense - Genesis Project EP.md",
     "Main albums/Humanity's Last Breath - Ashen.md",
-    "Main albums/Gordon Lightfoot - Sundown.md",
-    "Main albums/Funkadelic - Maggot Brain.md",
-    "Main albums/Floating Points - Promises.md",
-    "Main albums/Fleet Foxes - Fleet Foxes.md",
-    "Main albums/Faetooth - Remnants of the Vessel.md",
-    "Main albums/Esophagus - Killing for Sport.md",
-    "Main albums/Dillinger Escape Plan - Ire Works.md",
-    "Main albums/Death Grips - Bottomless Pit.md",
-    "Main albums/De Jeugd van Tegenwoordig - De Machine.md",
     "connecting albums and singles",
     "Her Revolution",
     "albumcovers/Justice-Justice.jpg",
