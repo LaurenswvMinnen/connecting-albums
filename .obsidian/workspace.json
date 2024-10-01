@@ -102,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "connecting bands/Mastodon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "connecting bands/Mastodon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "connecting bands/Mastodon.md"
+              }
             }
           }
         ]
@@ -161,12 +165,26 @@
   },
   "active": "929a4aae0894d9fa",
   "lastOpenFiles": [
-    "People of interest/Vegyn.md",
-    "connecting albums and singles/Kanye West - The Life of Pablo.md",
-    "README.md",
+    "Performing artists/King Gizzard and the Lizard Wizard.md",
+    "Performing artists",
     "Artists/Kanye West.md",
+    "connecting albums and singles/Kanye West - The Life of Pablo.md",
     "connecting albums and singles/Frank Ocean - Blonde.md",
+    "Tame Impala.md",
+    "People of interest/Vegyn.md",
+    "People of interest/Kanye West.md",
     "People of interest/Frank Ocean.md",
+    "Jay Watson.md",
+    "III Times.md",
+    "GUM.md",
+    "Artists/King Gizzard and the Lizard Wizard.md",
+    "Ambrose Kenny Smith.md",
+    "Vegyn.md",
+    "Kanye West.md",
+    "Kanye West - The Life of Pablo.md",
+    "Frank Ocean.md",
+    "Frank Ocean - Blonde.md",
+    "README.md",
     "Main albums/JPEGMAFIA - All My Heroes Are Cornballs.md",
     "connecting bands/Meshuggah.md",
     "connecting bands/Mastodon.md",
@@ -174,19 +192,6 @@
     "Main albums/The RH Factor - Hard Groove.md",
     "connecting albums and singles/Bootsy Collins - Tha Funk Capital of the World.md",
     "People of interest/Victor Wooten.md",
-    "Artists/Funkadelic.md",
-    "connecting albums and singles/Funkadelic - I'll Stay.md",
-    "connecting bands/Vital Tech Tones.md",
-    "People of interest/Scott Henderson.md",
-    "Artists/Tribal Tech.md",
-    "Main albums/Tribal Tech - Face First.md",
-    "Main albums/Willie Colon - Siembra.md",
-    "Main albums/Tame Impala - Currents.md",
-    "Main albums/Storm Corrosion - Storm Corrosion.md",
-    "Main albums/Omar Souleyman - Wenu Wenu.md",
-    "Main albums/Rory Gallagher - Irish Tour '74.md",
-    "Main albums/Luther Vandross - Never Too Much.md",
-    "Main albums/Leprous - Bilateral.md",
     "connecting albums and singles",
     "Her Revolution",
     "albumcovers/Justice-Justice.jpg",
@@ -203,7 +208,6 @@
     "connecting bands",
     "People of interest",
     "Artists",
-    "Performing artists",
     "Main albums"
   ]
 }
