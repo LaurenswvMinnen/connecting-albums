@@ -31,12 +31,31 @@
             "id": "929a4aae0894d9fa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+
+              "type": "markdown",
+              "state": {
+                "file": "III Times.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47db7b09f5f809b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ambrose Kenny Smith.md",
+                "mode": "source",
+                "source": false
+              }
+
+
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,35 +182,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "929a4aae0894d9fa",
+  "active": "652f714a24e090b4",
   "lastOpenFiles": [
-    "Performing artists/King Gizzard and the Lizard Wizard.md",
-    "Performing artists",
-    "Artists/Kanye West.md",
-    "connecting albums and singles/Kanye West - The Life of Pablo.md",
-    "connecting albums and singles/Frank Ocean - Blonde.md",
-    "Tame Impala.md",
-    "People of interest/Vegyn.md",
-    "People of interest/Kanye West.md",
-    "People of interest/Frank Ocean.md",
-    "Jay Watson.md",
+    "Ambrose Kenny Smith.md",
     "III Times.md",
     "GUM.md",
-    "Artists/King Gizzard and the Lizard Wizard.md",
-    "Ambrose Kenny Smith.md",
-    "Vegyn.md",
-    "Kanye West.md",
-    "Kanye West - The Life of Pablo.md",
-    "Frank Ocean.md",
-    "Frank Ocean - Blonde.md",
-    "README.md",
+    "Jay Watson.md",
+    "Tame Impala.md",
+    "Main albums/Tame Impala - Currents.md",
+    "connecting bands/Mastodon.md",
+    "People of interest/Kanye West.md",
+    "connecting albums and singles/Kanye West - The Life of Pablo.md",
+    "People of interest/Frank Ocean.md",
+    "connecting albums and singles/Frank Ocean - Blonde.md",
+    "People of interest/Vegyn.md",
+
     "Main albums/JPEGMAFIA - All My Heroes Are Cornballs.md",
     "connecting bands/Meshuggah.md",
-    "connecting bands/Mastodon.md",
     "People of interest/Bootsy Collins.md",
     "Main albums/The RH Factor - Hard Groove.md",
     "connecting albums and singles/Bootsy Collins - Tha Funk Capital of the World.md",
     "People of interest/Victor Wooten.md",
+
+    "Artists/Funkadelic.md",
+    "connecting albums and singles/Funkadelic - I'll Stay.md",
+    "connecting bands/Vital Tech Tones.md",
+    "People of interest/Scott Henderson.md",
+    "Artists/Tribal Tech.md",
+    "Main albums/Tribal Tech - Face First.md",
+    "Main albums/Willie Colon - Siembra.md",
+    "Main albums/Storm Corrosion - Storm Corrosion.md",
+
     "connecting albums and singles",
     "Her Revolution",
     "albumcovers/Justice-Justice.jpg",
