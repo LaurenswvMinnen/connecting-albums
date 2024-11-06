@@ -1,0 +1,1 @@
+Bands: [[Humanity's Last Breath]], [[Vildhjarta]]

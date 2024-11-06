@@ -8,51 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d89e4061db7fd66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "connecting bands/Mastodon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "652f714a24e090b4",
+            "id": "a30c58dfe2fb0e05",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "929a4aae0894d9fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "III Times.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47db7b09f5f809b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ambrose Kenny Smith.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0bf31defbeb2e3f5",
@@ -118,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "connecting bands/Mastodon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "connecting bands/Mastodon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "connecting bands/Mastodon.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,34 +138,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "652f714a24e090b4",
+  "active": "a30c58dfe2fb0e05",
   "lastOpenFiles": [
-    "Ambrose Kenny Smith.md",
-    "III Times.md",
-    "GUM.md",
-    "Jay Watson.md",
-    "Tame Impala.md",
-    "Main albums/Tame Impala - Currents.md",
-    "connecting bands/Mastodon.md",
+    "People of interest/Jens Bogren.md",
+    "connecting albums and singles/Vildhjarta - Måsstaden.md",
+    "connecting bands/Vildhjarta.md",
+    "Måsstaden.md",
+    "People of interest/Buster Odeholm.md",
+    "Artists/Humanity's Last Breath.md",
+    "Main albums/Humanity's Last Breath - Ashen.md",
     "People of interest/Kanye West.md",
     "connecting albums and singles/Kanye West - The Life of Pablo.md",
-    "People of interest/Frank Ocean.md",
-    "connecting albums and singles/Frank Ocean - Blonde.md",
-    "People of interest/Vegyn.md",
-    "Main albums/JPEGMAFIA - All My Heroes Are Cornballs.md",
-    "connecting bands/Meshuggah.md",
-    "People of interest/Bootsy Collins.md",
-    "Main albums/The RH Factor - Hard Groove.md",
-    "connecting albums and singles/Bootsy Collins - Tha Funk Capital of the World.md",
-    "People of interest/Victor Wooten.md",
-    "Artists/Funkadelic.md",
-    "connecting albums and singles/Funkadelic - I'll Stay.md",
-    "connecting bands/Vital Tech Tones.md",
-    "People of interest/Scott Henderson.md",
-    "Artists/Tribal Tech.md",
-    "Main albums/Tribal Tech - Face First.md",
-    "Main albums/Willie Colon - Siembra.md",
-    "Main albums/Storm Corrosion - Storm Corrosion.md",
+    "Main albums/Kids see Ghosts - Kids see Ghosts.md",
+    "Artists/Kids see Ghosts.md",
+    "Main albums/Tyler, The Creator - IGOR.md",
+    "Artists/Tyler, The Creator.md",
+    "connecting albums and singles/Grand Theft Auto V Soundtrack.md",
+    "connecting bands/Tangerine Dream.md",
+    "People of interest/Kid Cudi.md",
+    "connecting albums and singles/Kid Cudi - Indicud.md",
+    "People of interest/Joshua Tillman.md",
+    "Artists/Fleet Foxes.md",
+    "Main albums/Fleet Foxes - Fleet Foxes.md",
+    "connecting albums and singles/Earl Sweatshirt - Doris.md",
+    "People of interest/Earl Sweatshirt.md",
+    "connecting albums and singles/Earl Sweatshirt & the Alchemist - Voir Dire.md",
+    "People of interest/The Alchemist.md",
+    "Main albums/Blood Incantation - Absolute Elsewhere.md",
+    "Main albums/King Gizzard and the Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms and Lava.md",
+    "Performing artists",
     "connecting albums and singles",
     "Her Revolution",
     "albumcovers/Justice-Justice.jpg",
@@ -223,7 +183,6 @@
     "connecting bands",
     "People of interest",
     "Artists",
-    "Performing artists",
     "Main albums"
   ]
 }
