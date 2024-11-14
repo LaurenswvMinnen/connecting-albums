@@ -12,35 +12,29 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
-
           },
           {
             "id": "929a4aae0894d9fa",
             "type": "leaf",
             "state": {
-
-              "type": "markdown",
-              "state": {
-                "file": "III Times.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
             "id": "47db7b09f5f809b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ambrose Kenny Smith.md",
-                "mode": "source",
-                "source": false
-              }
-
-
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -63,7 +57,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -78,7 +74,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -86,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -116,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -127,7 +129,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,7 +142,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -146,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -168,6 +176,11 @@
   },
   "active": "a30c58dfe2fb0e05",
   "lastOpenFiles": [
+    "Artists/Kanye West.md",
+    "Main albums/Ms. Lauryn Hill - The Miseducation of Lauryn Hill.md",
+    "People of interest/Che Pope.md",
+    "connecting albums and singles/Kanye West - Bound 2.md",
+    "People of interest/Kanye West.md",
     "People of interest/Jens Bogren.md",
     "connecting albums and singles/Vildhjarta - Måsstaden.md",
     "connecting bands/Vildhjarta.md",
@@ -175,7 +188,6 @@
     "People of interest/Buster Odeholm.md",
     "Artists/Humanity's Last Breath.md",
     "Main albums/Humanity's Last Breath - Ashen.md",
-    "People of interest/Kanye West.md",
     "connecting albums and singles/Kanye West - The Life of Pablo.md",
     "Main albums/Kids see Ghosts - Kids see Ghosts.md",
     "Artists/Kids see Ghosts.md",
@@ -190,12 +202,7 @@
     "Main albums/Fleet Foxes - Fleet Foxes.md",
     "connecting albums and singles/Earl Sweatshirt - Doris.md",
     "People of interest/Earl Sweatshirt.md",
-    "connecting albums and singles/Earl Sweatshirt & the Alchemist - Voir Dire.md",
-    "People of interest/The Alchemist.md",
-    "Main albums/Blood Incantation - Absolute Elsewhere.md",
-    "Main albums/King Gizzard and the Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms and Lava.md",
     "Performing artists",
-
     "connecting albums and singles",
     "Her Revolution",
     "albumcovers/Justice-Justice.jpg",
