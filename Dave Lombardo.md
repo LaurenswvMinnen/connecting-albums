@@ -1,0 +1,1 @@
+bands: [[Slayer]], [[Suicidal Tendencies]]
