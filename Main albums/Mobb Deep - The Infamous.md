@@ -1,2 +1,4 @@
 #bodi_album
-artist: [[Mobb Deep]]
+artist: [[Mobb Deep]] 
+features: [[Q-Tip]] (Drink Away the Pain)
+
