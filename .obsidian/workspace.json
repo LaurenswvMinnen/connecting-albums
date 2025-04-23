@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People of interest/Jamie Foxx.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jamie Foxx"
+              "title": "README"
             }
           },
           {
@@ -173,10 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57f5ea86d821b253",
+  "active": "f14384d0573a18af",
   "lastOpenFiles": [
-    "connecting albums and singles/Kanye West - Slow Jamz.md",
     "People of interest/Jamie Foxx.md",
+    "connecting albums and singles/Kanye West - Slow Jamz.md",
     "People of interest/Ray Charles.md",
     "connecting bands/The Blues Brothers.md",
     "People of interest/John Belushi.md",
