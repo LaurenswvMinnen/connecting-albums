@@ -1,4 +1,4 @@
 #guus_album 
-artist: ms. Lauryn Hill
+artist: [[Ms. Lauryn Hill]]
 Features: [[D'Angelo]]
 produced by: [[Che Pope]]
