@@ -7,10 +7,14 @@ for this task we adhere to a few restrictions:
 2. Shared Management or being signed to the same label is insufficient
 
 
+Installation:
+download obsidian: https://obsidian.md/download
+download git: https://git-scm.com/downloads
+
 how to use github:
 
 to download the connections:
-1. Make sure you have Git downloaded
+1. Make sure you have Git installed
 2. Go to the directory you would like to store the project (eg. C:\Users\user\Desktop\ )
 3. Open cmd in that folder (in Windows, simply type `cmd` in the top bar)
 4. in the terminal, type `git clone https://github.com/LaurenswvMinnen/connecting-albums.git`
