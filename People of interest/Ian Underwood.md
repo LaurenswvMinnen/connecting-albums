@@ -1,0 +1,1 @@
+featured on: [[USA for Africa - We Are the World]], [[Frank Zappa - Hot Rats]]

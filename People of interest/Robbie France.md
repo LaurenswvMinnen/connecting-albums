@@ -1,0 +1,1 @@
+bands: [[Skunk Anansie]], [[Diamond Head]] 

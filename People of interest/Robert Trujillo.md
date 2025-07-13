@@ -1,0 +1,1 @@
+bands: [[Metallica]], [[Suicidal Tendencies]] 

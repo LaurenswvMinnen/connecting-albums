@@ -1,1 +1,1 @@
-members: [[Thundercat]], [[Ben Weinman]]
+members: [[Thundercat]], [[Ben Weinman]], [[Robert Trujillo]]
