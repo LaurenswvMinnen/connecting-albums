@@ -11,24 +11,24 @@
             "id": "fba87465d84a42e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "connecting albums and singles/USA for Africa - We Are the World.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "USA for Africa - We Are the World"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
             "id": "5c40984594c0eb08",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Artists/Erykah Badu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Erykah Badu"
             }
           }
         ]
@@ -171,7 +171,18 @@
   },
   "active": "fba87465d84a42e4",
   "lastOpenFiles": [
+    "Kanye West - POWER.md",
+    "King Crimson.md",
+    "Greg Lake.md",
+    "Ted McKenna.md",
+    "Rory Gallagher.md",
+    "Taste.md",
+    "Main albums/Rory Gallagher - Irish Tour '74.md",
     "connecting albums and singles/USA for Africa - We Are the World.md",
+    "Artists/Erykah Badu.md",
+    "Main albums/Outkast - Aquemini.md",
+    "People of interest/George Clinton.md",
+    "Artists/Funkadelic.md",
     "People of interest/Ludwig Göransson.md",
     "connecting albums and singles/Travis Scott - The Plan.md",
     "connecting albums and singles/Sinners (Original Motion Picture Soundtrack).md",
@@ -186,17 +197,6 @@
     "People of interest/Robert Trujillo.md",
     "connecting bands/Metallica.md",
     "connecting albums and singles/Diamond Head - Am I Evil.md",
-    "connecting bands/Diamond Head.md",
-    "People of interest/Robbie France.md",
-    "Artists/Skunk Anansie.md",
-    "Main albums/Skunk Anansie - Stoosh.md",
-    "Artists/Storm Corrosion.md",
-    "People of interest/Steven Wilson.md",
-    "connecting bands/Porcupine Tree.md",
-    "connecting bands/Simply Red.md",
-    "connecting albums and singles/Gavin Harrison - Cheating the Polygraph.md",
-    "People of interest/Gavin Harrison.md",
-    "Mick Hucknall.md",
     "Untitled",
     "Untitled.canvas",
     "Performing artists",
