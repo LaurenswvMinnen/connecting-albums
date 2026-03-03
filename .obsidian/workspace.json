@@ -4,347 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5ecc13e94dad8bfe",
+        "id": "a7ea592a4c3aa479",
         "type": "tabs",
         "children": [
           {
-            "id": "fba87465d84a42e4",
+            "id": "fb4d0456f4bf93d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main albums/A Tribe Called Quest - Low End Theory.md",
+                "file": "Artists/King Crimson.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Tribe Called Quest - Low End Theory"
+              "title": "King Crimson"
             }
           },
           {
-            "id": "b0c0bf65b1620acb",
+            "id": "a91a3145279aadda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artists/Miles Davis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Miles Davis"
-            }
-          },
-          {
-            "id": "c058143f27fb8414",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Stephen Sondheim - Being Alive.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stephen Sondheim - Being Alive"
-            }
-          },
-          {
-            "id": "23c9b9856b9d5b51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Sunn O))) - Between Sleipnir's Breaths.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sunn O))) - Between Sleipnir's Breaths"
-            }
-          },
-          {
-            "id": "025ab7311001ee15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artists/Metallica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metallica"
-            }
-          },
-          {
-            "id": "727612e706e0f544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Thank You Scientist - Terraformer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thank You Scientist - Terraformer"
-            }
-          },
-          {
-            "id": "351e6903f39efb42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Drs. P - Veerpont.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Drs. P - Veerpont"
-            }
-          },
-          {
-            "id": "09839906d7df7d11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Lana del Rey - Norman Fucking Rockwell!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lana del Rey - Norman Fucking Rockwell!"
-            }
-          },
-          {
-            "id": "74c0ad13af398099",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Judas Priest - Painkiller.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Judas Priest - Painkiller"
-            }
-          },
-          {
-            "id": "6d465a37ff3ae60d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/David Bowie - Blackstar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "David Bowie - Blackstar"
-            }
-          },
-          {
-            "id": "58588d8d26c112c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Steven Wilson - The Raven That Refused to Sing (and Other Stories).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Steven Wilson - The Raven That Refused to Sing (and Other Stories)"
-            }
-          },
-          {
-            "id": "5c40984594c0eb08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artists/Erykah Badu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Erykah Badu"
-            }
-          },
-          {
-            "id": "a3a1b24390909b24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Depeche Mode - Violator.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Depeche Mode - Violator"
-            }
-          },
-          {
-            "id": "8147aec821a05a7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Mount Eerie - Dawn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mount Eerie - Dawn"
-            }
-          },
-          {
-            "id": "de87e099aa1f105a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Strawberry Switchblade - Strawberry Switchblade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Strawberry Switchblade - Strawberry Switchblade"
-            }
-          },
-          {
-            "id": "66c95453c1fba614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/The Cure - Songs of a Lost World.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Cure - Songs of a Lost World"
-            }
-          },
-          {
-            "id": "06327f0120e3eb62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Kreator - Terrible Certainty.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kreator - Terrible Certainty"
-            }
-          },
-          {
-            "id": "20dc0aaa956163ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Der Weg einer Freiheit - Innern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Der Weg einer Freiheit - Innern"
-            }
-          },
-          {
-            "id": "ef933c41f9b4035b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/The Doobie Brothers - Minute by Minute.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Doobie Brothers - Minute by Minute"
-            }
-          },
-          {
-            "id": "c4a97e5f8d47b5a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/King Crimson - Discipline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "King Crimson - Discipline"
-            }
-          },
-          {
-            "id": "395219ddb87e9d9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Eric Bibb - One Mississippi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eric Bibb - One Mississippi"
-            }
-          },
-          {
-            "id": "cc22a685e553f0f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Hällas - Panorama.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hällas - Panorama"
-            }
-          },
-          {
-            "id": "ee97b0255e0a53c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Snarky Puppy, Metropole Orkest, Jules Buckley - Somni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Snarky Puppy, Metropole Orkest, Jules Buckley - Somni"
-            }
-          },
-          {
-            "id": "fe240746e0538aa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main albums/Strawberry Switchblade - Strawberry Switchblade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Strawberry Switchblade - Strawberry Switchblade"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Grafiek weergave"
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -483,34 +171,34 @@
       "bases:Nieuwe basis maken": false
     }
   },
-  "active": "fe240746e0538aa7",
+  "active": "a91a3145279aadda",
   "lastOpenFiles": [
-    "People of interest/Future.md",
-    "Main albums/Travis Scott - Rodeo.md",
-    "Main albums/J. Cole - The Fall-Off.md",
+    "Naamloos.md",
+    "People of interest/Adrian Belew.md",
+    "Artists/King Crimson.md",
+    "People of interest/Mark 'Flood' Ellis.md",
+    "Main albums/Nine Inch Nails - The Downward Spiral.md",
+    "People of interest/Robert Fripp.md",
+    "connecting albums and singles/David Bowie - Heroes.md",
+    "Artists/David Bowie.md",
+    "Main albums/David Bowie - Blackstar.md",
+    "connecting albums and singles/David Bowie - Lodger.md",
+    "Main albums/King Crimson - Discipline.md",
+    "connecting albums and singles/Frank Zappa - Sheik Yerbouti.md",
+    "Main albums/The Rolling Stones - Exile on Main St..md",
+    "Main albums/Tyler, The Creator - IGOR.md",
+    "People of interest/Phill Thornalley.md",
+    "Artists/The Cure.md",
+    "Main albums/The Cure - Songs of a Lost World.md",
+    "Main albums/Strawberry Switchblade - Strawberry Switchblade.md",
     "Main albums/Snarky Puppy, Metropole Orkest, Jules Buckley - Somni.md",
     "Main albums/Hällas - Panorama.md",
     "Main albums/Eric Bibb - One Mississippi.md",
-    "Main albums/MF DOOM - MM FOOD.md",
-    "Main albums/King Crimson - Discipline.md",
     "Main albums/The Doobie Brothers - Minute by Minute.md",
     "Main albums/Der Weg einer Freiheit - Innern.md",
     "Main albums/Kreator - Terrible Certainty.md",
-    "Main albums/The Cure - Songs of a Lost World.md",
-    "Main albums/Strawberry Switchblade - Strawberry Switchblade.md",
     "Main albums/Mount Eerie - Dawn.md",
     "Main albums/Depeche Mode - Violator.md",
-    "Main albums/Steven Wilson - The Raven That Refused to Sing (and Other Stories).md",
-    "Main albums/David Bowie - Blackstar.md",
-    "Main albums/Judas Priest - Painkiller.md",
-    "Main albums/Lana del Rey - Norman Fucking Rockwell!.md",
-    "Main albums/Drs. P - Veerpont.md",
-    "Main albums/Thank You Scientist - Terraformer.md",
-    "Artists/Metallica.md",
-    "Main albums/Metallica - St. Anger.md",
-    "Main albums/Cerrone - Supernature.md",
-    "Main albums/Sunn O))) - Between Sleipnir's Breaths.md",
-    "Main albums/Stephen Sondheim - Being Alive.md",
     "Untitled",
     "Untitled.canvas",
     "Performing artists",

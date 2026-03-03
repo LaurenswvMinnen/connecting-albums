@@ -1,2 +1,2 @@
 #misc_album 
-Artist: [[Strawberry Switchbllade]]
+Artist: [[Strawberry Switchblade]]
