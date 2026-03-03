@@ -1,0 +1,1 @@
+Bands: [[Kreator]], [[Voodoocult]]
