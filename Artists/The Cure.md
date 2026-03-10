@@ -1,2 +1,2 @@
 Albums: [[The Cure - Songs of a Lost World]]
-members: [[Phill Thornalley]] (1983-1984)
+members: [[Phill Thornalley]] (1983-1984), [[Robert Smith]] 

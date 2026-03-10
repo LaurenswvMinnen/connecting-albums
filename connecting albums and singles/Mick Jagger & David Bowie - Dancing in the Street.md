@@ -1,0 +1,1 @@
+artists: [[Mick Jagger]], [[David Bowie]] 
