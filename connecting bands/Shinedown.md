@@ -1,0 +1,1 @@
+albums: [[Shinedown - Leave a Whisper]],[[Shinedown - The Sound of Madness]] 

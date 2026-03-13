@@ -10,6 +10,7 @@ for this task we adhere to a few restrictions:
 Installation:
 download obsidian: https://obsidian.md/download
 download git: https://git-scm.com/downloads
+(Most Mac systems have git pre-installed. to verify this, type "git version" into the terminal. if it is not installed visit https://github.com/git-guides/install-git for a tutorial)
 
 how to use github:
 

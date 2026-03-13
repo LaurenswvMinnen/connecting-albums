@@ -1,2 +1,3 @@
-Members: [[Tony Banks]], [[Phil Collins]], [[Steve Hackett]]
+Members: [[Tony Banks]], [[Phil Collins]], [[Steve Hackett]], [[Peter Gabriel]]
+
 

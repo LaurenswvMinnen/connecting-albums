@@ -1,1 +1,1 @@
-members: [[Steven Wilson]], [[Gavin Harrison]] 
+members: [[Steven Wilson]], [[Gavin Harrison]], [[Richard Barbieri]] 
