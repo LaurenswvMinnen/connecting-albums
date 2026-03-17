@@ -1,2 +1,3 @@
 #bodi_album 
-Artist: [[Der Weg Einer Freiheit]]
+Artist: [[Der Weg einer Freiheit]]
+
