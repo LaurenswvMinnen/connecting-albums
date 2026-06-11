@@ -1,1 +1,1 @@
-Bands: [[GTR]], [[Asia]] 
+Bands: [[GTR]], [[Asia]], [[Yes]] 

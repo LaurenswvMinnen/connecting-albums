@@ -1,2 +1,2 @@
 bands: [[Probot]]
-features in: [[A Minecraft Movie]]
+features in: [[A Minecraft Movie]], [[Mario Kart Band]]
