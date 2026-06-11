@@ -1,3 +1,3 @@
-Artist:[[Leonard Cohen]]
+Artist: [[Leonard Cohen]]
 
 Engineered: [[Howard Bilerman]]
