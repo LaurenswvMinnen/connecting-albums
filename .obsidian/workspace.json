@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artists/Funkadelic.md",
+                "file": "People of interest/Ludwig Göransson.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funkadelic"
+              "title": "Ludwig Göransson"
+            }
+          },
+          {
+            "id": "c174d9e5d6d67d48",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +55,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Verkenner"
+              "title": "Files"
             }
           },
           {
@@ -53,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "funka",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +72,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Zoeken"
+              "title": "Search"
             }
           },
           {
@@ -151,43 +162,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open snel wisselen": false,
-      "graph:Open grafiek weergave": false,
-      "canvas:Nieuw doek aanmaken": false,
-      "daily-notes:Open de notitie van vandaag": false,
-      "templates:Sjabloon invoegen": false,
-      "command-palette:Open opdrachtenpaneel": false,
-      "bases:Nieuwe basis maken": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "57f5ea86d821b253",
+  "active": "c174d9e5d6d67d48",
   "lastOpenFiles": [
-    "Main albums/Funkadelic - Maggot Brain.md",
+    "Main albums/Nine Inch Nails - The Downward Spiral.md",
+    "connecting works/Björk - Vulnicura.md",
+    "People of interest/Júlía Mogensen.md",
+    "connecting bands/Arca.md",
+    "Björk.md",
+    "connecting works/Frank Ocean - Endless.md",
+    "Main albums/Sigur Rós - Takk....md",
+    "People of interest/Gary Sanctuary.md",
+    "Main albums/Samm Henshaw - It Could Be Worse.md",
+    "Artists/Samm Henshaw.md",
+    "connecting works/Samm Henshaw - Church.md",
+    "connecting bands/EarthGang.md",
+    "connecting works/Dreamville - Down Bad.md",
+    "Artists/J. Cole.md",
+    "Main albums/J. Cole - The Fall-Off.md",
+    "Main albums/McKinley Dixon - Magic, Alive!.md",
+    "Main albums/Geordie Greep - The New Sound.md",
+    "People of interest/Morgan Simpson.md",
+    "connecting works/Little Simz - Lotus.md",
+    "People of interest/Little Simz.md",
+    "connecting works/Gorillaz - Humanz.md",
+    "Artists/Gorillaz.md",
+    "People of interest/Ludwig Göransson.md",
+    "connecting works/Ahsoka Vol.1.md",
+    "People of interest/Sarah Tudzin.md",
     "Artists/Funkadelic.md",
-    "Artists/Telekinetic Yeti.md",
-    "connecting bands/weedeater.md",
-    "Main albums/Telekinetic Yeti - Abominable.md",
-    "Main albums/Strawberry Switchblade - Strawberry Switchblade.md",
-    "People of interest/Phill Thornalley.md",
-    "Main albums/Storm Corrosion - Storm Corrosion.md",
-    "Artists/Storm Corrosion.md",
-    "People of interest/Michael Akerfeldt.md",
-    "Main albums/Leonard Cohen - Songs of Love and Hate.md",
-    "Artists/Leonard Cohen.md",
-    "connecting works/Leonard Cohen - You Want It Darker.md",
-    "People of interest/Howard Bilerman.md",
-    "Main albums/Justice - Justice.md",
-    "Main albums/Depeche Mode - Violator.md",
-    "Artists/Tribal Tech.md",
-    "Main albums/Tribal Tech - Face First.md",
-    "connecting works/Funkadelic - I'll Stay.md",
-    "Main albums/The RH Factor - Hard Groove.md",
-    "Artists/Q-Tip.md",
-    "Artists/The RH Factor.md",
-    "Artists/Tame Impala.md",
-    "Artists/Telekinetic Yeti.md",
-    "Artists/Steven Wilson.md",
-    "Artists/Skunk Anansie.md",
     "Untitled",
     "Untitled.canvas",
     "Performing artists",

@@ -1,1 +1,1 @@
-Albums: [[Gorillaz - Demon Days]], [[Gorilllaz - The Mountain]]
+Albums: [[Gorillaz - Demon Days]], [[Gorilllaz - The Mountain]], [[Gorillaz - Humanz]]

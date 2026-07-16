@@ -1,0 +1,3 @@
+artists:
+[[EarthGang]], 
+[[J. Cole]],
