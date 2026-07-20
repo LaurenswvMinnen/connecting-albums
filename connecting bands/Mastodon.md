@@ -1,3 +1,3 @@
 toured with: [[Converge]] (2006), [[High on Fire]] (2009)
 
-bandmember: [[Brent Hinds]]
+bandmember: [[Brent Hinds]], [[Nick Johnston]]

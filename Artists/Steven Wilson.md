@@ -1,3 +1,7 @@
-bands: [[Porcupine Tree]], [[Storm Corrosion]] 
+bands: 
+	[[Porcupine Tree]], 
+	[[Storm Corrosion]] 
 
-albums: [[Steven Wilson - The Raven That Refused to Sing (and Other Stories)]] 
+albums: 
+	[[Steven Wilson - The Raven That Refused to Sing (and Other Stories)]] 
+	[[Steven Wilson - Insurgentes]] 

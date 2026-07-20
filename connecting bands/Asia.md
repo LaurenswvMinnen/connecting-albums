@@ -1,3 +1,5 @@
+albums: [[Asia - Aura]]
+
 members:
 [[Ron 'Bumblefoot'Thal]] (2019 - present)
 [[John Wetton]] (1981–1983, 1984–1986, 1989–1991, 2006–2017 (until his death))
@@ -8,3 +10,4 @@ members:
 [[Steve Howe]] (1981–1984, 1992–1993, 2006–2013 (guest 2000, 2019))
 [[Greg Lake]] (1983-1984)
 [[Mandy Meyer]] (1984-1986)
+[[Guthrie Govan]] (2001-2005)

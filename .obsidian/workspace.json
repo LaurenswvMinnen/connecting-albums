@@ -13,16 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People of interest/Ludwig Göransson.md",
+                "file": "Artists/Miles Davis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ludwig Göransson"
+              "title": "Miles Davis"
             }
           },
           {
             "id": "c174d9e5d6d67d48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vinnie Colaiuta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vinnie Colaiuta"
+            }
+          },
+          {
+            "id": "18b4422d456f7ff8",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -32,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,34 +185,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "c174d9e5d6d67d48",
+  "active": "57f5ea86d821b253",
   "lastOpenFiles": [
-    "Main albums/Nine Inch Nails - The Downward Spiral.md",
-    "connecting works/Björk - Vulnicura.md",
-    "People of interest/Júlía Mogensen.md",
-    "connecting bands/Arca.md",
-    "Björk.md",
-    "connecting works/Frank Ocean - Endless.md",
-    "Main albums/Sigur Rós - Takk....md",
-    "People of interest/Gary Sanctuary.md",
-    "Main albums/Samm Henshaw - It Could Be Worse.md",
-    "Artists/Samm Henshaw.md",
-    "connecting works/Samm Henshaw - Church.md",
-    "connecting bands/EarthGang.md",
-    "connecting works/Dreamville - Down Bad.md",
-    "Artists/J. Cole.md",
-    "Main albums/J. Cole - The Fall-Off.md",
-    "Main albums/McKinley Dixon - Magic, Alive!.md",
-    "Main albums/Geordie Greep - The New Sound.md",
-    "People of interest/Morgan Simpson.md",
-    "connecting works/Little Simz - Lotus.md",
-    "People of interest/Little Simz.md",
-    "connecting works/Gorillaz - Humanz.md",
-    "Artists/Gorillaz.md",
-    "People of interest/Ludwig Göransson.md",
-    "connecting works/Ahsoka Vol.1.md",
-    "People of interest/Sarah Tudzin.md",
-    "Artists/Funkadelic.md",
+    "Vinnie Colaiuta.md",
+    "The Weeknd - Beauty Behind the Madness.md",
+    "The Weeknd.md",
+    "Main albums/Travis Scott - Rodeo.md",
+    "connecting works/Asia - Aura.md",
+    "connecting bands/Asia.md",
+    "Steely Dan - Two Against Nature.md",
+    "connecting bands/Steely Dan.md",
+    "Tony Banks - Still.md",
+    "People of interest/Tony Banks.md",
+    "connecting works/Leonard Cohen - I'm Your Man.md",
+    "connecting works/Gino Vannelli - Nightwalker.md",
+    "Artists/Gino Vannelli.md",
+    "connecting works/Lee Ritenour - Rit's House.md",
+    "People of interest/Alan Pasqua.md",
+    "connecting works/Bob Dylan - Street Legal.md",
+    "Artists/Bob Dylan.md",
+    "connecting works/Bob Dylan - Under The Red Sky.md",
+    "People of interest/George Duke.md",
+    "connecting works/Frank Zappa - Chunga's Revenge.md",
+    "Artists/Frank Zappa.md",
+    "People of interest/Michael McDonald.md",
+    "People of interest/Lee Ritenour.md",
+    "connecting works/Anri - Smooth Jam - Quiet Storm.md",
+    "connecting works/Lee Ritenour - 6 String Theory.md",
+    "People of interest/Guthrie Govan.md",
     "Untitled",
     "Untitled.canvas",
     "Performing artists",
