@@ -8,45 +8,133 @@
         "type": "tabs",
         "children": [
           {
-            "id": "335582d87f1f3dab",
+            "id": "af16ca90f0979717",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artists/Miles Davis.md",
+                "file": "connecting bands/Vildhjarta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miles Davis"
+              "title": "Vildhjarta"
             }
           },
           {
-            "id": "c174d9e5d6d67d48",
+            "id": "310aba2306009b35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vinnie Colaiuta.md",
+                "file": "Artists/Esophagus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vinnie Colaiuta"
+              "title": "Esophagus"
             }
           },
           {
-            "id": "18b4422d456f7ff8",
+            "id": "61388ba9bd4c65ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "People of interest/Mike Rutherford.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mike Rutherford"
+            }
+          },
+          {
+            "id": "6cb6c621528f7c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artists/The Mars Volta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Mars Volta"
+            }
+          },
+          {
+            "id": "f886297121222816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Igorrr - Amen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Igorrr - Amen"
+            }
+          },
+          {
+            "id": "15bde35ead83dcfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Isaac Hayes - Hot Buttered Soul.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Isaac Hayes - Hot Buttered Soul"
+            }
+          },
+          {
+            "id": "37b6289b312d8637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Anchoret - It All Began With Loneliness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Anchoret - It All Began With Loneliness"
+            }
+          },
+          {
+            "id": "4ac0929f2b126e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "McKinley Dixon - Magic, Alive!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "McKinley Dixon - Magic, Alive!"
+            }
+          },
+          {
+            "id": "d883016a60486b4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artists/Samm Henshaw.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Samm Henshaw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -66,7 +154,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -187,32 +277,32 @@
   },
   "active": "57f5ea86d821b253",
   "lastOpenFiles": [
-    "Vinnie Colaiuta.md",
-    "The Weeknd - Beauty Behind the Madness.md",
-    "The Weeknd.md",
-    "Main albums/Travis Scott - Rodeo.md",
-    "connecting works/Asia - Aura.md",
-    "connecting bands/Asia.md",
-    "Steely Dan - Two Against Nature.md",
+    "Samm Henshaw - It Could Be Worse.md",
+    "McKinley Dixon - Magic, Alive!.md",
+    "The Anchoret - It All Began With Loneliness.md",
+    "Igorrr - Amen.md",
+    "Sébastien Tellier - Kiss the Beast.md",
+    "Artists/Slayyyter.md",
+    "Slayyyter - WOR$T GIRL IN AMERICA.md",
+    "Isaac Hayes - Hot Buttered Soul.md",
+    "connecting works/The Dillinger Escape Plan - Irony Is a Dead Scene.md",
+    "connecting works/Alan Parsons - On Air.md",
+    "connecting works/Al Di Meola - Scenario.md",
+    "connecting works/Ahsoka Vol.1.md",
+    "connecting bands/Yes.md",
     "connecting bands/Steely Dan.md",
+    "connecting bands/Mr. Bungle.md",
+    "connecting bands/Leather Canary.md",
+    "connecting bands/EarthGang.md",
+    "connecting bands/Arca.md",
+    "connecting bands/Aphrodite's Child.md",
+    "Vinnie Colaiuta.md",
+    "Tony Levin.md",
     "Tony Banks - Still.md",
-    "People of interest/Tony Banks.md",
-    "connecting works/Leonard Cohen - I'm Your Man.md",
-    "connecting works/Gino Vannelli - Nightwalker.md",
-    "Artists/Gino Vannelli.md",
-    "connecting works/Lee Ritenour - Rit's House.md",
-    "People of interest/Alan Pasqua.md",
-    "connecting works/Bob Dylan - Street Legal.md",
-    "Artists/Bob Dylan.md",
-    "connecting works/Bob Dylan - Under The Red Sky.md",
-    "People of interest/George Duke.md",
-    "connecting works/Frank Zappa - Chunga's Revenge.md",
-    "Artists/Frank Zappa.md",
-    "People of interest/Michael McDonald.md",
-    "People of interest/Lee Ritenour.md",
-    "connecting works/Anri - Smooth Jam - Quiet Storm.md",
-    "connecting works/Lee Ritenour - 6 String Theory.md",
-    "People of interest/Guthrie Govan.md",
+    "Theo Travis.md",
+    "The Weeknd.md",
+    "The Weeknd - Beauty Behind the Madness.md",
+    "Steven Wilson - Insurgentes.md",
     "Untitled",
     "Untitled.canvas",
     "Performing artists",
