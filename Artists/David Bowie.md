@@ -1,6 +1,3 @@
-Albums: 
-[[David Bowie - Blackstar]], 
-[[David Bowie - Heroes]], 
-[[David Bowie - Heathen]]
+Albums: [[David Bowie - Blackstar]], [[David Bowie - Heroes]]
 
 

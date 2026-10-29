@@ -1,2 +1,0 @@
-Artist: [[Isaac Hayes]]
-

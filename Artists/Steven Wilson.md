@@ -1,7 +1,6 @@
-bands: 
-	[[Porcupine Tree]], 
-	[[Storm Corrosion]] 
+bands: [[Porcupine Tree]], [[Storm Corrosion]] 
 
-albums: 
-	[[Steven Wilson - The Raven That Refused to Sing (and Other Stories)]] 
-	[[Steven Wilson - Insurgentes]] 
+albums: [[Steven Wilson - The Raven That Refused to Sing (and Other Stories)]] 
+
+remixed: [[Gentle Giant - The Power and the Glory]]
+
